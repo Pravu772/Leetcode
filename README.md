@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pravu772/Leetcode/tree/master/0001-two-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Pravu772/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Pravu772/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Hash Table
 |  |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/Pravu772/Leetcode/tree/master/0202-happy-number) |
 | [0292-nim-game](https://github.com/Pravu772/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Pravu772/Leetcode/tree/master/0319-bulb-switcher) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Pravu772/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Pravu772/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1642-water-bottles](https://github.com/Pravu772/Leetcode/tree/master/1642-water-bottles) |
 | [2083-three-divisors](https://github.com/Pravu772/Leetcode/tree/master/2083-three-divisors) |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Pravu772/Leetcode/tree/master/0202-happy-number) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Pravu772/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
