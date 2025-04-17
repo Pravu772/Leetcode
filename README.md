@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/Pravu772/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Pravu772/Leetcode/tree/master/0319-bulb-switcher) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Pravu772/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1642-water-bottles](https://github.com/Pravu772/Leetcode/tree/master/1642-water-bottles) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Pravu772/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Pravu772/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Pravu772/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Pravu772/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/Pravu772/Leetcode/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
