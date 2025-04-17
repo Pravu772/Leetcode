@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pravu772/Leetcode/tree/master/0001-two-sum) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Pravu772/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
