@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Pravu772/Leetcode/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/Pravu772/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Pravu772/Leetcode/tree/master/0319-bulb-switcher) |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Pravu772/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Pravu772/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Pravu772/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Pravu772/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
