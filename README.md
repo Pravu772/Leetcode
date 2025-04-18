@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Pravu772/Leetcode/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Pravu772/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Pravu772/Leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Pravu772/Leetcode/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/Pravu772/Leetcode/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Pravu772/Leetcode/tree/master/0292-nim-game) |
 | [0319-bulb-switcher](https://github.com/Pravu772/Leetcode/tree/master/0319-bulb-switcher) |
@@ -82,9 +83,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Pravu772/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Pravu772/Leetcode/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Pravu772/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Pravu772/Leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
