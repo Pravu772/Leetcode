@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-calculate-delayed-arrival-time](https://github.com/Pravu772/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Pravu772/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Pravu772/Leetcode/tree/master/2955-account-balance-after-rounded-purchase) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Pravu772/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Geometry
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Pravu772/Leetcode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Pravu772/Leetcode/tree/master/0461-hamming-distance) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Pravu772/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Pravu772/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
