@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Pravu772/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Pravu772/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1642-water-bottles](https://github.com/Pravu772/Leetcode/tree/master/1642-water-bottles) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Pravu772/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2083-three-divisors](https://github.com/Pravu772/Leetcode/tree/master/2083-three-divisors) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Pravu772/Leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2507-number-of-common-factors](https://github.com/Pravu772/Leetcode/tree/master/2507-number-of-common-factors) |
