@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pravu772/Leetcode/tree/master/0001-two-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pravu772/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1137-height-checker](https://github.com/Pravu772/Leetcode/tree/master/1137-height-checker) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Pravu772/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Pravu772/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Pravu772/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 ## Hash Table
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Pravu772/Leetcode/tree/master/0319-bulb-switcher) |
 | [0342-power-of-four](https://github.com/Pravu772/Leetcode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pravu772/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Pravu772/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Pravu772/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1642-water-bottles](https://github.com/Pravu772/Leetcode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Pravu772/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Pravu772/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Pravu772/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 ## Simulation
 |  |
