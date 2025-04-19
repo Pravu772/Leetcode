@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Pravu772/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Pravu772/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Pravu772/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Pravu772/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Pravu772/Leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Pravu772/Leetcode/tree/master/0202-happy-number) |
 | [1635-number-of-good-pairs](https://github.com/Pravu772/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Pravu772/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/Pravu772/Leetcode/tree/master/0461-hamming-distance) |
 | [0899-binary-gap](https://github.com/Pravu772/Leetcode/tree/master/0899-binary-gap) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Pravu772/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Pravu772/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Pravu772/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
