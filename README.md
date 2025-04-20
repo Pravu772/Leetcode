@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/Pravu772/Leetcode/tree/master/2507-number-of-common-factors) |
 | [2556-convert-the-temperature](https://github.com/Pravu772/Leetcode/tree/master/2556-convert-the-temperature) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Pravu772/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
+| [2619-categorize-box-according-to-criteria](https://github.com/Pravu772/Leetcode/tree/master/2619-categorize-box-according-to-criteria) |
 | [2715-k-items-with-the-maximum-sum](https://github.com/Pravu772/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Pravu772/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Pravu772/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
