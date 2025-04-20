@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-calculate-delayed-arrival-time](https://github.com/Pravu772/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Pravu772/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Pravu772/Leetcode/tree/master/2955-account-balance-after-rounded-purchase) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Pravu772/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Pravu772/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Pravu772/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Pravu772/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Pravu772/Leetcode/tree/master/0292-nim-game) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Pravu772/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Greedy
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Pravu772/Leetcode/tree/master/1642-water-bottles) |
+| [3511-find-the-winning-player-in-coin-game](https://github.com/Pravu772/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Enumeration
 |  |
 | ------- |
