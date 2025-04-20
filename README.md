@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pravu772/Leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Pravu772/Leetcode/tree/master/0202-happy-number) |
 | [1635-number-of-good-pairs](https://github.com/Pravu772/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2427-first-letter-to-appear-twice](https://github.com/Pravu772/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Pravu772/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Math
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1137-height-checker](https://github.com/Pravu772/Leetcode/tree/master/1137-height-checker) |
 | [1635-number-of-good-pairs](https://github.com/Pravu772/Leetcode/tree/master/1635-number-of-good-pairs) |
+| [2427-first-letter-to-appear-twice](https://github.com/Pravu772/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Pravu772/Leetcode/tree/master/0342-power-of-four) |
 | [0461-hamming-distance](https://github.com/Pravu772/Leetcode/tree/master/0461-hamming-distance) |
 | [0899-binary-gap](https://github.com/Pravu772/Leetcode/tree/master/0899-binary-gap) |
+| [2427-first-letter-to-appear-twice](https://github.com/Pravu772/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Pravu772/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Pravu772/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Pravu772/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -126,4 +129,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pravu772/Leetcode/tree/master/0053-maximum-subarray) |
+## String
+|  |
+| ------- |
+| [2427-first-letter-to-appear-twice](https://github.com/Pravu772/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
