@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2748-calculate-delayed-arrival-time](https://github.com/Pravu772/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Pravu772/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Pravu772/Leetcode/tree/master/2955-account-balance-after-rounded-purchase) |
+| [2998-count-symmetric-integers](https://github.com/Pravu772/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Pravu772/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Pravu772/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Pravu772/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2083-three-divisors](https://github.com/Pravu772/Leetcode/tree/master/2083-three-divisors) |
 | [2507-number-of-common-factors](https://github.com/Pravu772/Leetcode/tree/master/2507-number-of-common-factors) |
+| [2998-count-symmetric-integers](https://github.com/Pravu772/Leetcode/tree/master/2998-count-symmetric-integers) |
 ## Number Theory
 |  |
 | ------- |
