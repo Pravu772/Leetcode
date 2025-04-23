@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Pravu772/Leetcode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/Pravu772/Leetcode/tree/master/1137-height-checker) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Pravu772/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Pravu772/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pravu772/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Pravu772/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Pravu772/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Pravu772/Leetcode/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pravu772/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Pravu772/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1395-minimum-time-visiting-all-points](https://github.com/Pravu772/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Pravu772/Leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Pravu772/Leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
 | [1635-number-of-good-pairs](https://github.com/Pravu772/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [1395-minimum-time-visiting-all-points](https://github.com/Pravu772/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
 | [2575-minimum-cuts-to-divide-a-circle](https://github.com/Pravu772/Leetcode/tree/master/2575-minimum-cuts-to-divide-a-circle) |
 ## Brainteaser
 |  |
