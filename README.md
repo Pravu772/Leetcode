@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Pravu772/Leetcode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/Pravu772/Leetcode/tree/master/1137-height-checker) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/Pravu772/Leetcode/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pravu772/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Pravu772/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Pravu772/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Pravu772/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Pravu772/Leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Pravu772/Leetcode/tree/master/0202-happy-number) |
 | [0782-jewels-and-stones](https://github.com/Pravu772/Leetcode/tree/master/0782-jewels-and-stones) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pravu772/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Pravu772/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Pravu772/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Pravu772/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -111,11 +113,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Pravu772/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/Pravu772/Leetcode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/Pravu772/Leetcode/tree/master/1137-height-checker) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pravu772/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Pravu772/Leetcode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/Pravu772/Leetcode/tree/master/1137-height-checker) |
+| [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pravu772/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Pravu772/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [2427-first-letter-to-appear-twice](https://github.com/Pravu772/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 ## Bit Manipulation
