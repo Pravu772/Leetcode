@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pravu772/Leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/Pravu772/Leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Pravu772/Leetcode/tree/master/0054-spiral-matrix) |
 | [0136-single-number](https://github.com/Pravu772/Leetcode/tree/master/0136-single-number) |
 | [0164-maximum-gap](https://github.com/Pravu772/Leetcode/tree/master/0164-maximum-gap) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pravu772/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Pravu772/Leetcode/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/Pravu772/Leetcode/tree/master/1642-water-bottles) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Pravu772/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Enumeration
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Pravu772/Leetcode/tree/master/0948-sort-an-array) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Pravu772/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
