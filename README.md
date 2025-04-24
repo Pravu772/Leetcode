@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pravu772/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Pravu772/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Pravu772/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Pravu772/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Pravu772/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Pravu772/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Pravu772/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/Pravu772/Leetcode/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/Pravu772/Leetcode/tree/master/1642-water-bottles) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Pravu772/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Pravu772/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Enumeration
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Pravu772/Leetcode/tree/master/0020-valid-parentheses) |
 | [0782-jewels-and-stones](https://github.com/Pravu772/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Pravu772/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Pravu772/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2427-first-letter-to-appear-twice](https://github.com/Pravu772/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3379-score-of-a-string](https://github.com/Pravu772/Leetcode/tree/master/3379-score-of-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Pravu772/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
