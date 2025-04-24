@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Pravu772/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Pravu772/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2427-first-letter-to-appear-twice](https://github.com/Pravu772/Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [3379-score-of-a-string](https://github.com/Pravu772/Leetcode/tree/master/3379-score-of-a-string) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Pravu772/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 ## Stack
 |  |
