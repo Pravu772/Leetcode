@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Pravu772/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Pravu772/Leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Pravu772/Leetcode/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/Pravu772/Leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/Pravu772/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Pravu772/Leetcode/tree/master/0231-power-of-two) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Pravu772/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Pravu772/Leetcode/tree/master/0070-climbing-stairs) |
 ## String
 |  |
 | ------- |
@@ -209,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Pravu772/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Pravu772/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
