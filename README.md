@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2715-k-items-with-the-maximum-sum](https://github.com/Pravu772/Leetcode/tree/master/2715-k-items-with-the-maximum-sum) |
 | [2748-calculate-delayed-arrival-time](https://github.com/Pravu772/Leetcode/tree/master/2748-calculate-delayed-arrival-time) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Pravu772/Leetcode/tree/master/2812-find-the-maximum-achievable-number) |
+| [2857-total-distance-traveled](https://github.com/Pravu772/Leetcode/tree/master/2857-total-distance-traveled) |
 | [2955-account-balance-after-rounded-purchase](https://github.com/Pravu772/Leetcode/tree/master/2955-account-balance-after-rounded-purchase) |
 | [2998-count-symmetric-integers](https://github.com/Pravu772/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Pravu772/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Pravu772/Leetcode/tree/master/0054-spiral-matrix) |
 | [1642-water-bottles](https://github.com/Pravu772/Leetcode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pravu772/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2857-total-distance-traveled](https://github.com/Pravu772/Leetcode/tree/master/2857-total-distance-traveled) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Pravu772/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Enumeration
 |  |
