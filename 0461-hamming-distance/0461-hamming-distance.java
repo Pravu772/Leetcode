@@ -3,7 +3,7 @@ class Solution {
         int count=0;
         int c=x^y;
         while(c>0){
-            if(c%2==1){
+            if(c%2!=0){
                 count++;
             }
             c/=2;
