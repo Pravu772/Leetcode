@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Pravu772/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Pravu772/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Pravu772/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pravu772/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3515-find-if-digit-game-can-be-won](https://github.com/Pravu772/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3553-check-if-two-chessboard-squares-have-the-same-color](https://github.com/Pravu772/Leetcode/tree/master/3553-check-if-two-chessboard-squares-have-the-same-color) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Pravu772/Leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pravu772/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Geometry
 |  |
 | ------- |
