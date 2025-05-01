@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/Pravu772/Leetcode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pravu772/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Pravu772/Leetcode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [3226-minimum-number-game](https://github.com/Pravu772/Leetcode/tree/master/3226-minimum-number-game) |
 | [3246-check-if-bitwise-or-has-trailing-zeros](https://github.com/Pravu772/Leetcode/tree/master/3246-check-if-bitwise-or-has-trailing-zeros) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/Pravu772/Leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Pravu772/Leetcode/tree/master/3446-find-the-number-of-good-pairs-i) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/Pravu772/Leetcode/tree/master/1642-water-bottles) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Pravu772/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2857-total-distance-traveled](https://github.com/Pravu772/Leetcode/tree/master/2857-total-distance-traveled) |
+| [3226-minimum-number-game](https://github.com/Pravu772/Leetcode/tree/master/3226-minimum-number-game) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Pravu772/Leetcode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Enumeration
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/Pravu772/Leetcode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/Pravu772/Leetcode/tree/master/1137-height-checker) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pravu772/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [3226-minimum-number-game](https://github.com/Pravu772/Leetcode/tree/master/3226-minimum-number-game) |
 ## Counting Sort
 |  |
 | ------- |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/Pravu772/Leetcode/tree/master/0948-sort-an-array) |
+| [3226-minimum-number-game](https://github.com/Pravu772/Leetcode/tree/master/3226-minimum-number-game) |
 ## Merge Sort
 |  |
 | ------- |
