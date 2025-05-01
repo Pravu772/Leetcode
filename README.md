@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Pravu772/Leetcode/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Pravu772/Leetcode/tree/master/0202-happy-number) |
+| [0242-valid-anagram](https://github.com/Pravu772/Leetcode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Pravu772/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Pravu772/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1635-number-of-good-pairs](https://github.com/Pravu772/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Pravu772/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Pravu772/Leetcode/tree/master/0164-maximum-gap) |
+| [0242-valid-anagram](https://github.com/Pravu772/Leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Pravu772/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0948-sort-an-array](https://github.com/Pravu772/Leetcode/tree/master/0948-sort-an-array) |
 | [1137-height-checker](https://github.com/Pravu772/Leetcode/tree/master/1137-height-checker) |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Pravu772/Leetcode/tree/master/0020-valid-parentheses) |
+| [0242-valid-anagram](https://github.com/Pravu772/Leetcode/tree/master/0242-valid-anagram) |
 | [0782-jewels-and-stones](https://github.com/Pravu772/Leetcode/tree/master/0782-jewels-and-stones) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Pravu772/Leetcode/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/Pravu772/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
