@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Pravu772/Leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3515-find-if-digit-game-can-be-won](https://github.com/Pravu772/Leetcode/tree/master/3515-find-if-digit-game-can-be-won) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Pravu772/Leetcode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Pravu772/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Pravu772/Leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Hash Table
 |  |
@@ -240,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Pravu772/Leetcode/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [3731-sum-of-variable-length-subarrays](https://github.com/Pravu772/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
 <!---LeetCode Topics End-->
