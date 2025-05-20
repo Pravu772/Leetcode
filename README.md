@@ -246,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-sum-of-variable-length-subarrays](https://github.com/Pravu772/Leetcode/tree/master/3731-sum-of-variable-length-subarrays) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Pravu772/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
