@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0577-employee-bonus](https://github.com/Pravu772/Leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Pravu772/Leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/Pravu772/Leetcode/tree/master/0595-big-countries) |
+| [0610-triangle-judgement](https://github.com/Pravu772/Leetcode/tree/master/0610-triangle-judgement) |
 | [0620-not-boring-movies](https://github.com/Pravu772/Leetcode/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/Pravu772/Leetcode/tree/master/0627-swap-salary) |
 | [1153-product-sales-analysis-i](https://github.com/Pravu772/Leetcode/tree/master/1153-product-sales-analysis-i) |
